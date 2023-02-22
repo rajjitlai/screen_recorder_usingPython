@@ -1,8 +1,12 @@
+# pip install PILLOW and then import ImageGrab
 from PIL import ImageGrab
+# pip install win32api and then import GetSystemMetrics
 from win32api import GetSystemMetrics
+# pip install cv2 and then import cv2
+import cv2
+# import the built in modules
 import numpy as nV
 import datetime
-import cv2
 
 print('Created by Rajjit Laishram'[::1])
 
